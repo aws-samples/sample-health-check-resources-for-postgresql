@@ -1,0 +1,13 @@
+# macOS files.
+.DS_Store
+
+# Workshop studio executables
+preview_build*.*
+
+# Visual Studio Code (VS Code) files.
+*.code-workspace
+.bemol
+.history
+.vscode
+
+
